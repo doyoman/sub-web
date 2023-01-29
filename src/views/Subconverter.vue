@@ -296,7 +296,14 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://sub.doyokey.app/sub?" }],
+        backendOptions: [
+        { 
+            value: "https://sub.doyokey.app/sub?" 
+        },
+        {
+            value: "http://127.0.0.1/sub?"
+        }
+        ],
         remoteConfig: [
         {
             label: "ACL4SSR",
