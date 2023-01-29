@@ -301,6 +301,9 @@ export default {
             value: "https://sub.doyokey.app/sub?" 
         },
         {
+            value: "https://sub.xeton.dev/sub?"
+        },
+        {
             value: "http://127.0.0.1:25500/sub?"
         }
         ],
