@@ -301,7 +301,7 @@ export default {
             value: "https://sub.doyokey.app/sub?" 
         },
         {
-            value: "http://127.0.0.1/sub?"
+            value: "http://127.0.0.1:25500/sub?"
         }
         ],
         remoteConfig: [
