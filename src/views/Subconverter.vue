@@ -298,12 +298,15 @@ export default {
         },
         backendOptions: [
         { 
+            label: "sub.doyokey.app（自用后端）",
             value: "https://sub.doyokey.app/sub?" 
         },
         {
+            label: "sub.xeton.dev（Subscription作者后端）",
             value: "https://sub.xeton.dev/sub?"
         },
         {
+            label: "localhost（本地后端）",
             value: "http://127.0.0.1:25500/sub?"
         }
         ],
