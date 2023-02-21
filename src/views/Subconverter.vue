@@ -312,6 +312,16 @@ export default {
         ],
         remoteConfig: [
         {
+            label: "自用",
+            options: [
+              {
+                label: "自用有OpenAI分组",
+                value:
+                  "https://raw.githubusercontent.com/doyoman/doyo/main/backup/my_rule.ini"
+              }
+            ]
+          },
+        {
             label: "ACL4SSR",
             options: [
               {
