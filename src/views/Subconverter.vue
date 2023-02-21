@@ -304,6 +304,9 @@ export default {
             value: "https://sub.xeton.dev/sub?"
         },
         {
+            value: "http://192.168.2.1:25500/sub?"
+        },
+        {
             value: "http://127.0.0.1:25500/sub?"
         }
         ],
