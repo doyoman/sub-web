@@ -298,7 +298,7 @@ export default {
         },
         backendOptions: [
         { 
-            value: "https://sub.doyokey.app/sub?" 
+            value: "https://sub.doyokey.it.eu.org/sub?" 
         },
         {
             value: "https://sub.xeton.dev/sub?"
