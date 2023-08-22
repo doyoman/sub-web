@@ -298,6 +298,9 @@ export default {
         },
         backendOptions: [
         { 
+            value: "https://sub-api.olds.eu.org/sub?" 
+        },
+        { 
             value: "https://sub.doyokey.eu.org/sub?" 
         },
         {
